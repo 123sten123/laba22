@@ -1,8 +1,0 @@
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe.config
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.exe
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\ConsoleApplication43.pdb
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.csprojResolveAssemblyReference.cache
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.exe
-C:\Users\Степан\Documents\Visual Studio 2015\Projects\ConsoleApplication43\ConsoleApplication43\obj\Debug\ConsoleApplication43.pdb
